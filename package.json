@@ -1,8 +1,9 @@
 {
   "name": "@bpanel/mempool-widget",
   "version": "0.0.1",
-  "description": "A simple widget for the bpanel dashboard to display current mempool size and tx count",
+  "description": "A simple widget for the bPanel dashboard to display current mempool size and tx count",
   "main": "dist/index.js",
+  "repository": "git@github.com:bpanel-org/mempool-widget.git",
   "scripts": {
     "babel": "babel --presets=env,stage-3 lib -d dist",
     "watch": "babel --presets=env,stage-3 lib -d dist --watch",
