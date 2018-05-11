@@ -60,3 +60,4 @@ typings/
 # dist
 dist
 *.map
+.DS_Store
